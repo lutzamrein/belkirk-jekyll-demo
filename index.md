@@ -4,9 +4,7 @@ banner_image: "/uploads/2018/02/25/car.jpg"
 layout: landing-page
 heading: Riluam
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2018/02/17/building2.jpg"
 services: []
 sub_heading: Meine private Seite
 textline: "Riluam  \nMeine Seite"
